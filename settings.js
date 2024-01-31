@@ -12,42 +12,42 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: iamevilboy" //ur github or insta name
+global.location = "Nigeria, lagos, Abuja" //ur location
 
 //new
-global.botname = '𝓡𝓞𝓢𝓔' //ur bot name
-global.ownernumber = '918618971837' //ur owner number
-global.ownername = '𝕹𝖆𝖙𝖍𝖆𝖓 𓇻‎' //ur owner name
-global.websitex = "https://youtu.be/-Omye-W0pTE"
-global.wagc = "https://chat.whatsapp.com/HeXOhgWhj2OEcTF1LPVzOv"
-global.themeemoji = '☠️'
-global.wm = "ORDINARYGETO Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD10' //script link
-global.packname = "Sticker By"
-global.author = "ORDINARGETO"
-global.creator = "× ROSE"
+global.botname = '🎯𝐈𝐕𝐘𝐒 𝐁𝐎𝐓 𝐕𝟏𝟎🎯' //ur bot name
+global.ownernumber = '2348122716856' //ur owner number
+global.ownername = '🎯𝐁𝐋𝐔𝐄 𝐈𝐂𝐎𝐍🎯' //ur owner name
+global.websitex = "https://chat.whatsapp.com/HQ26izcpZ7yAWXm2yyExSX"
+global.wagc = "https://chat.whatsapp.com/HQ26izcpZ7yAWXm2yyExSX"
+global.themeemoji = '🎯'
+global.wm = "Blue Bot Inc."
+global.botscript = 'https://github.com/iamevilboy/Evilbot-MD10' //script link
+global.packname = "🎯𝐁𝐋𝐔𝐄 𝐈𝐂𝐎𝐍"
+global.author = "𝐈𝐕𝐘𝐒 𝐁𝐎𝐓 𝐕𝟏𝟎🎯"
+global.creator = "2348122716856@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["918618971837"] // Premium User
+global.premium = ["2348122716856"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v8'
+global.typemenu = 'v2' // menu type 'v1' => 'v8'
 global.typereply = 'v3' // reply type 'v1' => 'v3'
-global.autoblocknumber = '92' //set autoblock country code
+global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: 'Here you go!'
+    success: '𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 ...𝐈𝐕𝐘𝐒 𝐁𝐎𝐓 𝐕𝟏𝟎🎯!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
